@@ -3,6 +3,7 @@
 
 #PySpark 실습용 데이터 폴더 무시
 workspace/learning_spark_data/
+workspace/output
 
 #가상환경
 venv/
