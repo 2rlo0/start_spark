@@ -8,7 +8,8 @@ IBM HR Analytics 데이터셋을 기반으로, 직원의 이직 여부를 예측
 
 - 출처: [Kaggle - IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - 관측치 수: 1,470건
-- 타겟 컬럼: `Attrition` (Yes: 이직, No: 잔류)
+- 타겟 컬럼: `Attrition` (Yes, No)
+- 
 
 ---
 
