@@ -1,6 +1,6 @@
-# 직원 이직 예측 분석 (Employee Attrition Prediction)
+# 직원 퇴사 예측 분석 (Employee Attrition Prediction)
 
-IBM HR Analytics 데이터셋을 기반으로, 직원의 이직 여부를 예측하는 모델을 구축한 분석 프로젝트
+IBM HR Analytics 데이터셋을 기반으로, 직원의 퇴사 여부를 예측하는 모델을 구축한 분석 프로젝트
 
 ---
 
